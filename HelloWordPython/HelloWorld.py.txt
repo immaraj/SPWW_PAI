@@ -1,0 +1,3 @@
+#Sample Python file for setting up and testing a new Git repository
+
+print "Hello, World!"
